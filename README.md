@@ -1,6 +1,18 @@
 # BANKING_SYSTEM
 
-### Steps to Execute:
+### Concepts Used 
+1. Classes 
+2. Functions 
+3. Objects
+4. Constructors
+5. Destructors
+6. Friend Functions
+7. STL (map function)
+8. File I/O (File Handling)
+9. Exception Handling
+10. Scope resolution operators 
+
+### Steps to Execute
 1. Compile => g++ -o Banking_system Banking_system.cpp
 2. Run => ./Banking_system
 
